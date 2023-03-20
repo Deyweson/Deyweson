@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyvesu" alt="deyvesu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anteikhu_d" target="blank"><img src="https://img.shields.io/twitter/follow/anteikhu_d?logo=twitter&style=for-the-badge" alt="anteikhu_d" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anteikhu_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anteikhu_d" height="30" width="40" /></a>
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvesu&show_icons=true&locale=en&layout=compact" alt="deyvesu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deyvesu&show_icons=true&locale=en" alt="deyvesu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deyvesu&" alt="deyvesu" /></p>
