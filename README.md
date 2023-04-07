@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Deyweson Almeida</h1>
-<h3 align="center">Estudante de desenvolvimento Front-End</h3>
+<h3 align="center"></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
