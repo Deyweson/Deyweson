@@ -1,4 +1,4 @@
-### Oi, eu sou o Deyweson, estudante de desenvolvimento front-end e python.
+### Oi, eu sou o Deyweson!!
  - 📖 Estudante
  - 🌱 Estudando html, css, js e python
 
