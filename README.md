@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyweson&hide_progress=false&layout=compact)](https://github.com/deyweson/github-readme-stats)
 
 <div style="display: inline_block" align="center"><br>
@@ -9,4 +9,5 @@
   <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="left" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
+</div>
+-->
