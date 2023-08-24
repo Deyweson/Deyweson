@@ -1,13 +1,26 @@
 ## Hi there 👋
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyweson&hide_progress=false&layout=compact)](https://github.com/deyweson/github-readme-stats)
 
-<div style="display: inline_block" align="center"><br>
-  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
--->
+# Deyweson Almeida
+
+Sou apaixonado por tecnologia, principalmente voltado para programação, minha principal vontade e conseguir participar da construção de aplicações que poderão impactar positivamente na vida das pessoas.
+
+No momento estou cursando Desenvolvimento de Software na Cubos Academy e também estou realizando um curso profissionalizante de caldeiraria o qual eu ganhei uma bolsa para estar cursando na instituição Firjan Senai com parceria da BrasFels.
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/deyweson/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/deyve_00/)
+
+## Habilidades 
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+
+## GitHub Most Used Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deyweson&bg_color=000&border_color=30A3DC&title_color=BLUE&text_color=FFF)
+
+
