@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End
+💻 Desenvolvedor Back-End
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
@@ -13,7 +13,7 @@
 
 🔎 Também sou curioso sobre desenvolvimento de games, arduino, raspberry pi e eletronicos no geral
 
-✒️ Eu gosto de no meu tempo livre gosto de jogar principalmente jogos de Pokémon, assistir videos sobre mecânica, eletrônicos, programação, gameplays e outros no youtube 
+✒️ No meu tempo livre gosto de jogar principalmente jogos de Pokémon, assistir videos sobre mecânica, eletrônicos, programação, gameplays e outros no youtube.
 
 
 ### Eu já trabalhei com... 🔧
@@ -37,7 +37,6 @@
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
