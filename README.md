@@ -9,7 +9,7 @@
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Curso de Caldeiraria no Senai Firjan
 
-👩‍💻 Atualmente eu trabalho como Jovem Aprendiz na BrasFels
+👩‍💻 Atualmente eu trabalho como Suporte Técnico de TI
 
 🔎 Também sou curioso sobre desenvolvimento de games, arduino, raspberry pi e eletronicos no geral
 
