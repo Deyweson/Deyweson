@@ -1,4 +1,4 @@
-w# Oi, me chamo Deyweson 👋
+# Oi, me chamo Deyweson 👋
 
 ### Sobre mim
 👩‍💻 Atuando como Suporte Técnico de TI<br>
