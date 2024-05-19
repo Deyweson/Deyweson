@@ -6,9 +6,6 @@
 🎓 Tecnólogo em Sistemas de Computação pela Universidade Federal Fluminense (UFF)<br>
 🎓 Desenvolvimento de Software Fullstack pela Cubos Academy<br>
 
-
-### Eu já trabalhei com... 🔧
-
 **Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
