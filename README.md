@@ -11,7 +11,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css)
 ![My Skills](https://skillicons.dev/icons?i=js,ts)
 
-![](https://skillicons.dev/icons?i=nodejs,react)
+![](https://skillicons.dev/icons?i=nodejs,react,electron)
 
 ![](https://skillicons.dev/icons?i=git,vscode,postman)
 
