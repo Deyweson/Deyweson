@@ -15,6 +15,8 @@
 
 ![](https://skillicons.dev/icons?i=git,vscode,postman)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deyweson&layout=compact&theme=tokyonight)
+
 ![](https://media.tenor.com/clSGI3XGaCEAAAAM/shinji-estoysolo.gif)
 
 ### Entre em contato comigo! 📭
