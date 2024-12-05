@@ -12,16 +12,16 @@ Sistema desenvolvido para gerenciar os navios que chegam ao porto para descarreg
 
 ## Projetos de Estudos
 
-### **file-box**
-Um MVC para gerenciamento de arquivos. Os usuários podem subir arquivos, fazer download e excluí-los do servidor. Desenvolvido com Node.js, Express, Multer e EJS.
+### **SQL Backup Tool**
+Ferramenta em Node.js e Electron para realização de backup de bancos de dados SQL(PostgreSQL e MySQL)
 
-### **budgetio**
+### **Budget Io**
 API para criação de orçamentos para o usuário. O usuário insere dados da sua empresa, cliente e os produtos do orçamento. Assim, a API pode gerar um orçamento customizado para ele. Desenvolvido em Node.js com TypeScript, Fastify e Puppeteer.
 
-### **url shortness**
+### **URL Shortness**
 Um simples encurtador de URL. Faz um link curto para a URL inserida, que é mantida no banco de dados durante 1 dia. A API faz a auto exclusão das URLs. Desenvolvido em Node.js, Node-cron, Fastify, SQLite e Prisma.
 
-### **base conversion app**
+### **Base Conversion App**
 Simples conversor de Decimal para Binário e vice-versa. App desenvolvido em React Native e TypeScript.
 
 ## **Tecnologias e Ferramentas**
