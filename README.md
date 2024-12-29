@@ -28,7 +28,7 @@ Simples conversor de Decimal para Binário e vice-versa. App desenvolvido em Rea
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,electron,git,vscode,postman)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deyweson&layout=compact&theme=tokyonight)  
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deyweson&layout=compact&theme=tokyonight) 
 
 
 ## Entre em contato comigo! 📭
