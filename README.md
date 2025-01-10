@@ -2,7 +2,7 @@
 
 ### Sobre mim
 👩‍💻 Me chamo Deyweson<br>
-🎓 Cursado Tecnólogo em Sistemas de Computação pela Universidade Federal Fluminense (UFF)<br>
+🎓 Cursando Tecnólogo em Sistemas de Computação pela Universidade Federal Fluminense (UFF)<br>
 🎓 Desenvolvimento de Software Fullstack pela Cubos Academy<br>
 
 ## Principal Projeto
