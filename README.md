@@ -1,28 +1,23 @@
-# Bem vindo ao meu GitHub 
-
 ### Sobre mim
-👩‍💻 Me chamo Deyweson<br>
-🎓 Cursando Tecnólogo em Sistemas de Computação pela Universidade Federal Fluminense (UFF)<br>
-🎓 Desenvolvimento de Software Fullstack pela Cubos Academy<br>
+Estudante de Sistemas de Computação pela UFF e especializado em desenvolvimento Back-end, com certificação pela Cubos Academy. Experiência prática no desenvolvimento de sistemas, incluindo um projeto de gerenciamento de operações em navios, e sólida atuação como Suporte Técnico em TI.
 
 ## Principal Projeto
 
 ### Sistema Tergran - Gerenciador de Navios e suas descargas
-Sistema desenvolvido para gerenciar os navios que chegam ao porto para descarregar trigo. O sistema permite realizar o cadastro do navio e de suas operações, como descargas, movimentações e paralisações. O sistema exibe os dados do navio e também tem a função de enviar relatórios customizados do navio em PDF para os grupos de e-mail selecionados.
+- Desenvolvimento de um sistema customizado para gerenciamento de operações portuárias.
+- Substituição do processo manual de criação de relatórios no Excel por um sistema que gera relatórios automaticamente com os dados inseridos pelos usuários, permitindo o envio conforme necessidade.
+- Uso de tecnologias modernas como JavaScript, TypeScript, Node.js, Electron.js, React.js e PostgreSQL para garantir eficiência e escalabilidade.
+- Integração com banco de dados para armazenamento seguro de informações.
 
 ## Projetos de Estudos
 
 ### **SQL Backup Tool**
-Ferramenta em Node.js e Electron para realização de backup de bancos de dados SQL(PostgreSQL e MySQL)
+- Ferramenta para backup e restauração de bancos de dados PostgreSQL e MySQL.
+- Permite a criação e recuperação de backups de forma simples e eficiente.
 
 ### **Budget Io**
-API para criação de orçamentos para o usuário. O usuário insere dados da sua empresa, cliente e os produtos do orçamento. Assim, a API pode gerar um orçamento customizado para ele. Desenvolvido em Node.js com TypeScript, Fastify e Puppeteer.
-
-### **URL Shortness**
-Um simples encurtador de URL. Faz um link curto para a URL inserida, que é mantida no banco de dados durante 1 dia. A API faz a auto exclusão das URLs. Desenvolvido em Node.js, Node-cron, Fastify, SQLite e Prisma.
-
-### **Base Conversion App**
-Simples conversor de Decimal para Binário e vice-versa. App desenvolvido em React Native e TypeScript.
+- API para geração de orçamentos em PDF, automatizando a criação de documentos personalizados.
+- Desenvolvido com Node.js, TypeScript, Express e Puppeteer.
 
 ## **Tecnologias e Ferramentas**
 
