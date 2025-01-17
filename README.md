@@ -1,7 +1,7 @@
 ### Sobre mim
 Estudante de Sistemas de Computação pela UFF e especializado em desenvolvimento Back-end, com certificação pela Cubos Academy. Experiência prática no desenvolvimento de sistemas, incluindo um projeto de gerenciamento de operações em navios, e sólida atuação como Suporte Técnico em TI.
 
-## Principal Projeto
+## Experiências Profissionais
 
 ### Sistema Tergran - Gerenciador de Navios e suas descargas
 - Desenvolvimento de um sistema customizado para gerenciamento de operações portuárias.
