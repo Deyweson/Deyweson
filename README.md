@@ -25,6 +25,13 @@ Estudante de Sistemas de Computação pela UFF e especializado em desenvolviment
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deyweson&layout=compact&theme=tokyonight) 
 
+<img
+   align="left"
+   alt="activity-graph graph" 
+   height="289"
+   style="padding-top: 10px;"
+   src="https://github-readme-activity-graph.vercel.app/graph?username=deyweson&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
+ />
 
 ## Entre em contato comigo! 📭
 <div>
