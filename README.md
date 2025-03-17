@@ -1,39 +1,47 @@
-### Sobre mim
-Estudante de Sistemas de Computação pela UFF e especializado em desenvolvimento Back-end, com certificação pela Cubos Academy. Experiência prática no desenvolvimento de sistemas, incluindo um projeto de gerenciamento de operações em navios, e sólida atuação como Suporte Técnico em TI.
 
-## Experiências Profissionais
+## 👋 Olá! Eu sou o Deyweson Almeida  
 
-### Sistema Tergran - Gerenciador de Navios e suas descargas
-- Desenvolvimento de um sistema customizado para gerenciamento de operações portuárias.
-- Substituição do processo manual de criação de relatórios no Excel por um sistema que gera relatórios automaticamente com os dados inseridos pelos usuários, permitindo o envio conforme necessidade.
-- Uso de tecnologias modernas como JavaScript, TypeScript, Node.js, Electron.js, React.js e PostgreSQL para garantir eficiência e escalabilidade.
-- Integração com banco de dados para armazenamento seguro de informações.
+<img src="https://i.gifer.com/24Cb.gif" 
+     alt="ilustração de um computador" 
+     min-width="400px" 
+     max-width="400px" 
+     width="400px" 
+     align="right">
 
-## Projetos de Estudos
+🎓 Estudante de **Sistemas de Computação** pela **UFF** e atualmente estagiário na **STI UFF - Superintendência de Tecnologia da Informação**. No momento, estou aprofundando meus conhecimentos em desenvolvimento mobile com **Dart** e **Flutter**.  
 
-### **SQL Backup Tool**
-- Ferramenta para backup e restauração de bancos de dados PostgreSQL e MySQL.
-- Permite a criação e recuperação de backups de forma simples e eficiente.
+💻 Tenho experiência no desenvolvimento de aplicações **Full Stack**, utilizando **JavaScript/TypeScript** no back-end e no front-end. Minha stack principal inclui:  
+- **Front-end:** React.js, Electron.js  
+- **Back-end:** Node.js, Express, Fastify  
+- **Banco de dados:** PostgreSQL, SQLite3, MySQL  
 
-### **Budget Io**
-- API para geração de orçamentos em PDF, automatizando a criação de documentos personalizados.
-- Desenvolvido com Node.js, TypeScript, Express e Puppeteer.
+📌 Além disso, possuo conhecimentos em **Docker, Git** e boas práticas de desenvolvimento para criação de aplicações escaláveis e eficientes.  
 
-## **Tecnologias e Ferramentas**
+---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,electron,git,vscode,postman)
+### 🚀 Tech Stack  
+
+🦄 **Linguagens:**  
+`JavaScript` | `TypeScript` | `Dart/Flutter`  
+
+🛠️ **Ferramentas & Tecnologias:**  
+`React.js` | `Electron.js` | `Node.js` | `Express` | `Fastify` | `Git` | `Docker` | `PostgreSQL` | `SQLite3` | `MySQL`  
+
+---
+
+### 📬 Contato  
+
+📩 Me envie um e-mail: **deywesonalm@gmail.com**  
+ 
+
+<p align="left">
+   💼 Conecte-se comigo no LinkedIn: 
+  <a href="https://www.linkedin.com/in/deyweson" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyweson" alt="LinkedIn"/></a>
+</p>
+
+---
+
+### 📊 Estatísticas  
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deyweson&layout=compact&theme=tokyonight) 
-
-<img
-   align="left"
-   alt="activity-graph graph" 
-   height="289"
-   style="padding-top: 10px;"
-   src="https://github-readme-activity-graph.vercel.app/graph?username=deyweson&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
- />
-
-## Entre em contato comigo! 📭
-<div>
-<a href="https://www.linkedin.com/in/deyweson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div><br>
