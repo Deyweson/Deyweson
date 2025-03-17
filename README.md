@@ -8,7 +8,7 @@
      width="400px" 
      align="right">
 
-🎓 Estudante de **Sistemas de Computação** pela **UFF** e atualmente estagiário na **STI UFF - Superintendência de Tecnologia da Informação**. No momento, estou aprofundando meus conhecimentos em desenvolvimento mobile com **Dart** e **Flutter**.  
+🎓 Estudante de **Sistemas de Computação** pela **UFF** e atualmente estagiário na **STI UFF - Superintendência de Tecnologia da Informação** onde estou aprofundando meus conhecimentos em desenvolvimento mobile com **Dart** e **Flutter**.  
 
 💻 Tenho experiência no desenvolvimento de aplicações **Full Stack**, utilizando **JavaScript/TypeScript** no back-end e no front-end. Minha stack principal inclui:  
 - **Front-end:** React.js, Electron.js  
